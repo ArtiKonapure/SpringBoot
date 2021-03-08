@@ -1,4 +1,4 @@
-class JavaTest{
+class JavaTestNew{
 	
 	public static void main(String args[]){
 
